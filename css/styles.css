@@ -1,0 +1,15 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url("/fonts/LCALLIG.TTF");
+  }
+body{
+    margin: 15% 20%;
+}
+
+.container{
+    box-shadow: 10px 10px 100px 10px;
+}
+
+.name-font{
+    font-family: myFirstFont;
+}
