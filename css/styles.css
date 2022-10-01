@@ -2,13 +2,13 @@
     font-family: myFirstFont;
     src: url("/fonts/LCALLIG.TTF");
   }
-body{
-    margin: 15% 20%;
+body, html{
+   height: 100vh;
 }
 
-.container{
+/* .container{
     box-shadow: 10px 10px 100px 10px;
-}
+} */
 
 .name-font{
     font-family: myFirstFont;
